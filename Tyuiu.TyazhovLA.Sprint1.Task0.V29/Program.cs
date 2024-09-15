@@ -21,11 +21,13 @@ namespace Tyuiu.TyazhovLA.Sprint1.Task0.V29
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
-            Console.WriteLine(" 2*9+7*2                                                                   ");
+            Console.WriteLine("* 2*9+7*2                                                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
+            
             Console.WriteLine(ds.Calculate());
+
             Console.ReadLine();
         }
     }
